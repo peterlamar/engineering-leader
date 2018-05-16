@@ -23,7 +23,7 @@ A Manager/leader should encourage the following:
 
 ## 1on1s
 
-Having [good 1on1's](https://a16z.com/2012/08/30/one-on-one/) relies on the belief that it is the employee's meeting, as they should do 90% of the talking. It is a free form meeting for any issues, concerns, ideas and frustrations not easily expressed in more formal channels. Ultimately, the [goal](https://a16z.com/2012/08/18/a-good-place-to-work/) of the 1on1 is the create a good/great company. 
+Having [good 1on1's](https://a16z.com/2012/08/30/one-on-one/) relies on the belief that it is the employee's meeting, as they should do 90% of the talking. It is a free form meeting for any issues, concerns, ideas and frustrations not easily expressed in more formal channels. Ultimately, the [goal](https://a16z.com/2012/08/18/a-good-place-to-work/) of the 1on1 is the create a great company. 
 
 ## Feedback
 
