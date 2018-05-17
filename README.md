@@ -4,7 +4,7 @@ This serves as a brief introduction to a set of proposed values and goals. Howev
 
 * This reflects broad generalizations and does not replace getting to know each other through 1:1s, day-to-day chats, etc.
 * I am interested in continually iterating these beliefs and influences. Constructive feedback is always welcome.
-* If you see a discrepancy between this and my behavior, please tell me.
+* I am always learning and growing, if you observe that I am not living out one of these ideas please let me know. 
 
 ## As a Manager
 
