@@ -35,7 +35,7 @@ Feedback is a gift. It is difficult to give, especially with quality. It is an [
 
 ## Training
 
-Andy Grove [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK/ref=sr_1_1?ie=UTF8&qid=1526430507&sr=8-1&keywords=high+output+management) that there are only two ways for a manager to improve the output of an employee, motivation and training. Training is a high return activity that should be led by the managers of an organization. a16z [shares](https://a16z.com/2010/05/14/why-startups-should-train-their-people/) how this is a great method to set expectations within an organization.
+Andy Grove [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK/ref=sr_1_1?ie=UTF8&qid=1526430507&sr=8-1&keywords=high+output+management) states that there are only two ways for a manager to improve the output of an employee, motivation and training. Training is a high return activity that should be led by the managers of an organization. a16z [shares](https://a16z.com/2010/05/14/why-startups-should-train-their-people/) how this is a great method to set expectations within an organization.
 
 ## Teams and meetings
 
