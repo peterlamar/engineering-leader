@@ -12,7 +12,7 @@ A Manager/leader in an organization should seek to emulate the following:
 
 1. Seeks to serve those who they manage and place the needs of the team before their own.
 2. Practices '[Extreme Ownership](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2)'. A leader is always responsible and must own any mistake or shortcoming of the team. i.e. "There are no bad teams; just bad leaders"
-3. Creates a 'Psychologically safe' environment for the team members to succeed. Safe environments are the basis high performance per Google's [ReWork study](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/), [Maslow's heirarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs), and other similar studies.
+3. Creates a ['Psychologically safe'](https://www.youtube.com/watch?v=y6YbAvEtS8k) environment for the team members to succeed. Safe environments are the basis high performance per Google's [ReWork study](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/), [Maslow's heirarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs), and other similar studies.
 
 ## Growth
 
