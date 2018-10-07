@@ -24,10 +24,10 @@ A manager/leader should encourage the following:
 
 A key to being able to grow is being able to focus. Studies and some personal experience suggests that engineers need at least [4 hour blocks](https://chase-seibert.github.io/blog/2017/04/14/engineering-meeting-strategies.html) of uninterrupted time to achieve flow. Other literature, such as [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/ref=sr_1_1?ie=UTF8&qid=1527856567&sr=8-1&keywords=deep+work+cal) highlight the benefits that many successful knowledge workers have achieved though utilizing periods of intense focus. 
 
-* Protect engineers time, seeking to give as long uninterrupted stretches possible. 
+* Protect engineers time, seeking to give as long uninterrupted stretches possible 
 * Perform daily standups over slack/chat when possible
 * Timebox meetings
-* Batch meetings do that they can occur together
+* Batch meetings so that they can occur together
 * Allow engineers at least 24 hours to respond to any email or instant message
 * Encourage those nearby to take calls in office rooms rather than the desk in the open office space
 
@@ -42,6 +42,8 @@ Feedback is a gift. It is difficult to give, especially with quality. It is an [
 * With humility, we all have different perspectives and will often give different feedback in response to the same situation.
 * With positive intent on someone's behalf
 * With understanding, as even the best of us can have difficulty not taking occasional feedback personally
+
+Sometimes ask the person if they wish to have the feedback to illustrate its for their growth. 
 
 ## Training
 
