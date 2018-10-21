@@ -1,6 +1,6 @@
 # Hi, I'm Peter
 
-This serves as a brief introduction to a set of proposed values and goals. However
+This serves as a brief introduction to a set of proposed values and goals. However,
 
 * This reflects broad generalizations and does not replace getting to know each other through 1:1s, day-to-day chats, etc.
 * I am interested in continually iterating these beliefs and influences. Constructive feedback is always welcome.
