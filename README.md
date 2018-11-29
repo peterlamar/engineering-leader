@@ -55,3 +55,9 @@ Communication can be a big challenge as a team grows in size. The links between 
 
 1. [Amazon](https://gist.github.com/chitchcock/1281611), [Spotify](http://www.full-stackagile.com/2016/02/14/team-organisation-squads-chapters-tribes-and-guilds/) and others have demonstrated the power of small teams (<10 people) connected by api's.
 2. Meetings should be as small as possible and invite those deemed absolutely necessary. Jeff Bezos ([allegedly](https://www.cnbc.com/2017/08/16/how-jeff-bezos-two-pizza-rule-can-lead-to-more-productive-meetings.html)) will not even show up if the meeting has more than 10 people. For the rest of us, an [8-18-1800](https://hbr.org/2015/03/how-to-know-if-there-are-too-many-people-in-your-meeting) rule can be a good guideline.
+
+## Eng Light Reading
+
+Really good engineer resources on creating and maintaining excellent code 
+1. [Flatten code arrows](https://blog.codinghorror.com/flattening-arrow-code/) Excellent and practical on the all too prevelant nested if's
+2. [A Philosophy of Software Design](https://hackernewsbooks.com/book/a-philosophy-of-software-design/12be0ff26a765aa737d6b042043aa079) A great design book with lots of examples from class experience
