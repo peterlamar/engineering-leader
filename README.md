@@ -49,6 +49,18 @@ Sometimes ask the person if they wish to have the feedback to illustrate its for
 
 Andy Grove [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK/ref=sr_1_1?ie=UTF8&qid=1526430507&sr=8-1&keywords=high+output+management) states that there are only two ways for a manager to improve the output of an employee, motivation and training. Training is a high return activity that should be led by the managers of an organization. a16z [shares](https://a16z.com/2010/05/14/why-startups-should-train-their-people/) how this is a great method to set expectations within an organization.
 
+## Interviewing
+
+It is important to be humble in regards to interviewing. Good candidates may fail the interview and bad candidates may game your system. Nevertheless, it is important to be disciplined and always improving the interview practice based on feedback. Inspiring by [Steve Yegge's](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions) post, I have found asking questions that cover multiple areas of computer science allows stronger computer science candidates to succeed and these candidates are generally more flexible and capable than asking trivia about a single technology. I try to cover:
+
+- Whiteboard coding questions in the style of [Leet code](https://leetcode.com/) 
+
+- General computer science O(n) of algorithms and data structures
+
+- Linux questions (ls, grep, etc). Linux and bash are important and are growing faster than ever based on the [python developer report](https://www.jetbrains.com/research/python-developers-survey-2018/) and other sources. 
+
+- System design [question](https://github.com/donnemartin/system-design-primer) (How would you design an online web app that does x..). These questions tend to favor those with practical experience or a coding hobby. 
+
 ## Teams and meetings
 
 Communication can be a big challenge as a team grows in size. The links between team members can be [modeled](http://blog.idonethis.com/two-pizza-team/) as (n*(n-1))/2 or roughly n^2. A team of 5 people has 10 links between the members whereas a team of 14 has 91. [Experiments](http://www.opim.wharton.upenn.edu/~kmilkman/2012_OBHDPb.pdf) have shown larger teams can be less efficient. Finally, the US Military has conducted extensive research on the topic and has found the [ideal team size](https://www.amazon.com/Team-Teams-Rules-Engagement-Complex/dp/1591847486) to be five members. Two recommendations can be drawn from this:
