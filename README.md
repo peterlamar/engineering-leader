@@ -55,6 +55,14 @@ Communication can be a big challenge as a team grows in size. The links between 
 1. [Amazon](https://gist.github.com/chitchcock/1281611), [Spotify](http://www.full-stackagile.com/2016/02/14/team-organisation-squads-chapters-tribes-and-guilds/) and others have demonstrated the power of small teams (<10 people) connected by api's.
 2. Meetings should be as small as possible and invite those deemed absolutely necessary. Jeff Bezos ([allegedly](https://www.cnbc.com/2017/08/16/how-jeff-bezos-two-pizza-rule-can-lead-to-more-productive-meetings.html)) will not even show up if the meeting has more than 10 people. For the rest of us, an [8-18-1800](https://hbr.org/2015/03/how-to-know-if-there-are-too-many-people-in-your-meeting) rule can be a good guideline.
 
+## How to stay on top of technical developments?
+
+1. Stay up to date with data driven research on industry trends. Resources such as the [annual devops report](https://puppet.com/resources/whitepaper/state-of-devops-report), [python developer report](https://www.jetbrains.com/research/python-developers-survey-2018/), and [stack overflow trends](https://insights.stackoverflow.com/trends?tags=python%2Cjavascript%2Cjava%2Cc%23%2Cphp%2Cc%2B%2B&utm_source=so-owned&utm_medium=blog&utm_campaign=gen-blog&utm_content=blog-link&utm_term=incredible-growth-python) are just a few of the excellent resources available.
+
+2. Contribute to open source, which keeps one sharp as open source contributors will often hold you work to a high standard which isn't always the case within an organization for various reasons. 
+
+3. Push yourself to achieve externally validated industry benkmarks. For example, the deployment frequency and service uptime benchmarked in the [annual devops report](https://puppet.com/resources/whitepaper/state-of-devops-report) is a good target that is generally well accepted.
+
 ## Eng Light Reading
 
 Really good engineer resources on creating and maintaining excellent code 
