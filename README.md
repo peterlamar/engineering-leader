@@ -1,4 +1,4 @@
-# Leading Engineers
+# Beginning Leading and Managing Engineers
 
 This is a beginning set of knowledge for leading engineers in an organization. This can never encompase everything but can at least be an opinionated and useful place to start on the path to do so. 
 
