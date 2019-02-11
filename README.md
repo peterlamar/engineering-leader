@@ -15,10 +15,11 @@ A leader in an organization should seek to emulate the following:
 
 ## Growth
 
-A manager/leader should encourage the following:
+A leader should encourage the following:
 
 1. [Growth mindset](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/) Challenge themselves and others with assignments that stretch their capabilities
 2. [Mastery](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us) Aim for a cadence of academic output with the goal of producing small tangible items of value over time. For example, one of more blog posts, open source & conference contributions, Stack Overflow questions, and other such efforts with a cadence, such as quarterly.  
+
 ## Focus
 
 A key to being able to grow is being able to focus. Studies and some personal experience suggests that engineers need at least [4 hour blocks](https://chase-seibert.github.io/blog/2017/04/14/engineering-meeting-strategies.html) of uninterrupted time to achieve flow. Other literature, such as [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/ref=sr_1_1?ie=UTF8&qid=1527856567&sr=8-1&keywords=deep+work+cal) highlight the benefits that many successful knowledge workers have achieved though utilizing periods of intense focus. 
