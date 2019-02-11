@@ -1,14 +1,13 @@
-# Hi, I'm Peter
+# Engineering Leadership
 
-This serves as a brief introduction to a set of proposed values and goals. However,
+This is a beginning set of knowledge for leading engineers in an organization. This can never encompase everything but can at least be an opinionated and useful place to start on the path to do so. 
 
 * This reflects broad generalizations and does not replace getting to know each other through 1:1s, day-to-day chats, etc.
-* I am interested in continually iterating these beliefs and influences. Constructive feedback is always welcome.
-* I am always learning and growing, if you observe that I am not living out one of these ideas please let me know. 
+* Constructive feedback is always welcome.
 
-## As a Manager
+## As a Leader or Manager
 
-A Manager/leader in an organization should seek to emulate the following:
+A leader in an organization should seek to emulate the following:
 
 1. Seeks to serve those who they manage and place the needs of the team before their own.
 2. Practices '[Extreme Ownership](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2)'. A leader is always responsible and must own any mistake or shortcoming of the team. i.e. "There are no bad teams; just bad leaders"
