@@ -2,7 +2,7 @@
 
 This is a beginning set of knowledge for leading engineers in an organization. This can never encompase everything but can at least be an opinionated and useful place to start on the path to do so. 
 
-* This reflects broad generalizations and does not replace getting to know each other through 1:1s, day-to-day chats, etc.
+* This reflects broad generalizations and does not replace 1:1s, day-to-day chats, etc.
 * Constructive feedback and contributions are always welcome.
 
 ## As a Leader or Manager
