@@ -75,6 +75,13 @@ Communication can be a big challenge as a team grows in size. The links between 
 
 3. Push yourself to achieve externally validated industry benkmarks. For example, the deployment frequency and service uptime benchmarked in the [annual devops report](https://puppet.com/resources/whitepaper/state-of-devops-report) is a good target that is generally well accepted.
 
+## Technical Debt
+
+Technical debt is a killer of productivity and often difficult to describe to key decision makers. It eludes simple
+bar charts and other measurements but clearly impacts productivity. 
+
+Technical investment work can be framed as improvements, fixes and Upgrade/Updates to Security, Performance and Stability. When possible, develop a strategy for iterating and measuring your way to improvement.
+
 ## Eng Light Reading
 
 Really good engineer resources on creating and maintaining excellent code 
