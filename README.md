@@ -69,11 +69,37 @@ Communication can be a big challenge as a team grows in size. The links between 
 
 ## How to stay on top of technical developments?
 
-1. Stay up to date with data driven research on industry trends. Resources such as the [annual devops report](https://puppet.com/resources/whitepaper/state-of-devops-report), [python developer report](https://www.jetbrains.com/research/python-developers-survey-2018/), and [stack overflow trends](https://insights.stackoverflow.com/trends?tags=python%2Cjavascript%2Cjava%2Cc%23%2Cphp%2Cc%2B%2B&utm_source=so-owned&utm_medium=blog&utm_campaign=gen-blog&utm_content=blog-link&utm_term=incredible-growth-python) are just a few of the excellent resources available.
+1. Stay up to date with data driven research on industry trends. Resources such as the [annual state of devops report](https://cloudplatformonline.com/2018-state-of-devops.html), [python developer report](https://www.jetbrains.com/research/python-developers-survey-2018/), and [stack overflow trends](https://insights.stackoverflow.com/trends?tags=python%2Cjavascript%2Cjava%2Cc%23%2Cphp%2Cc%2B%2B&utm_source=so-owned&utm_medium=blog&utm_campaign=gen-blog&utm_content=blog-link&utm_term=incredible-growth-python) are just a few of the excellent resources available.
 
 2. Contribute to open source, which keeps one sharp as open source contributors will often hold you work to a high standard which isn't always the case within an organization for various reasons. 
 
 3. Push yourself to achieve externally validated industry benkmarks. For example, the deployment frequency and service uptime benchmarked in the [annual devops report](https://puppet.com/resources/whitepaper/state-of-devops-report) is a good target that is generally well accepted.
+
+## How to evaluate performance?
+
+Software Engineer performance is difficult to measure objectively.
+
+### Teams
+
+Data from the [annual devops report](https://cloudplatformonline.com/2018-state-of-devops.html) which has surveyed over 30,000 developers over the past five years has found the best measures a combination of productivity and quality. Specifically 'Deployment frequency' and 'Lead time for changes' as a measure of productivity and 'Time to restore service' and 'Change failure rate' as measures of quality. They have found these measures sufficient to segment performance between Elite, High, Medium and Low performers. 
+
+This can be a useful data point when measuring team performance. Some teams may be really productive but have poor quality. Other teams may excell at both and others still may do poorly at both. 
+
+### Individuals
+
+Individual engineers can be evaluated on both productivity and quality as well. 
+
+* Productivity is easier to measure than quality and I would argue less important. An agile course or a scrum board can help you estimate tasks and track their execution over time thus reasonably measuring productivity. Non technical managers can do a good job in this area with agile experience. 
+
+* Quality is more difficult, there are some things to look for as data points to contribute. 
+
+1. Unit tests - Automated testing is a key indicator of quality. If an engineer fixes a bug and doesn't also create a test to ensure the bug stays fixed, then how does one know the engineer didn't cause two other bugs when they fixed the first bug? Without tests, the engineer could theorectically work forever causing bugs every time they fix a bug and then refixing the same bugs. Tests would let the engineer know when previously working code has been broken due to new changes. 
+
+2. Comments - Documentation that shares how a code works
+
+3. Elegance/brevity - This is more subjective, but typically less code to accomplish a task is better than more. Simpler is better than complex. If a solution is simple and short it is typically better than a solution that is big and complex. Complexity of course can not be avoided but it should be fought for every inch of ground given up. 
+
+There is a common trap for a non-technical manager is to overly reward engineers who are productive at the expense of quality. This results in some common anti-patterns such as 'rockstar' engineers who create untested, difficult to maintain spaghetti code but are increasingly rewarded by an organization. Other 'average' engineers are often tasked with maintaining the service afterwards and can be blammed for delays in this code as they finish implementing the shortcuts of the 'rockstar'.
 
 ## Technical Debt
 
