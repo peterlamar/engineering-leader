@@ -117,6 +117,14 @@ Notable examples:
 * [Trello sample dev board](https://trello.com/b/1Jz6SorC/the-dev-board)
 * [Trello dev roadmap](https://trello.com/b/nC8QJJoZ/trello-development-roadmap)
 
+## Documentation
+
+Documentation in wiki's tends to become old and out of date quickly. The best documentation lives in github as markdown
+next to the source code. This documentation already has an excellent CMS (git) to manage it as well as encourages updates
+due to its always being present. Documentation and training are an incredible enabler of high performance teams and
+getting a culture to change to one that continually updates documentation (and automation) is one of those factors that
+separate great development teams from merely good development teams. 
+
 
 ## Eng Light Reading
 
