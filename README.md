@@ -125,6 +125,15 @@ due to its always being present. Documentation and training are an incredible en
 getting a culture to change to one that continually updates documentation (and automation) is one of those factors that
 separate great development teams from merely good development teams. 
 
+## Self service tools and infrastructure
+
+Enabling engineers with self service tools and infrastructure (cloud) is an enormous benefit. Non developers often
+don't think through the waste that can be triggered by making engineers submit a form and get a resource async vs
+an instant self service. It is quite literally days and weeks in the former case to seconds in the later. Compound
+this with human nature in that the engineer is not going to drop everything once the resource is granted days later
+and utilize it. Once a few of these form submitting processes add up (after all, no single raindrop feels responsible
+for the flood) and its quite understandable to see how unproductive large enterprise engineering teams can become 
+compared to similar teams in a startup and developing solely in cloud. 
 
 ## Eng Light Reading
 
