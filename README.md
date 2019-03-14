@@ -108,6 +108,16 @@ bar charts and other measurements but clearly impacts productivity.
 
 Technical investment work can be framed as improvements, fixes and Upgrade/Updates to Security, Performance and Stability. When possible, develop a strategy for iterating and measuring your way to improvement.
 
+## Sharing Progress with 3rd Parties
+
+Kanban Trello boards are an excellent pattern to share engineering progress with third parties. These third parties can include actual clients who want to know status of features or other members within the organization such as executives. 
+
+Notable examples:
+* [Red Hat Openshift team](https://trello.com/atomicopenshift)
+* [Trello sample dev board](https://trello.com/b/1Jz6SorC/the-dev-board)
+* [Trello dev roadmap](https://trello.com/b/nC8QJJoZ/trello-development-roadmap)
+
+
 ## Eng Light Reading
 
 Really good engineer resources on creating and maintaining excellent code 
