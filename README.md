@@ -106,7 +106,32 @@ There is a common trap for a non-technical manager is to overly reward engineers
 Technical debt is a killer of productivity and often difficult to describe to key decision makers. It eludes simple
 bar charts and other measurements but clearly impacts productivity. 
 
-Technical investment work can be framed as improvements, fixes and Upgrade/Updates to Security, Performance and Stability. When possible, develop a strategy for iterating and measuring your way to improvement.
+Technical investment work can be framed as improvements, fixes and Upgrade/Updates to Security, Performance, Throughput and Stability. When possible, develop a strategy for iterating and measuring your way to improvement.
+
+### Rewriting services
+
+* At Google there was a joke that there was always two systems in regards to infrastructure. One that is depreciated
+and another that doesn't work. 
+
+```quote
+Legacy code is simply code without tests. ― Michael C. Feathers, Working Effectively with Legacy Code
+```
+
+Few topics are as divisive and controversal among engineers as that of rewriting services. This is seen as a
+sort of engineer obsession and that engineers will always opt to write something new as opposed to work on a legacy
+codebase. 
+
+Service rewrites are possible and can return value, but are the exception and not the norm. It requires trememdous
+buy in from stakeholders over a long period of time, which makes it incredibly risky. Furthermore, if the team
+maintaining the legacy code is still maintaining and adding features then an additional problem of overtaking 
+the legacy team's velocity comes into play as well. Finally, entrenced interests in the status quo will also oppose any 
+rewrite attempt and can point at every delay and validation to their stance. Improvements must usually come in
+tiny pieces or not at all. Even harnessing a crises may not help in the long run, as the crises will pass and
+the rewrite will be questioned. 
+
+Arguments for the rewrite are similar to those of any proposed disruptive innovation. Since organizations are notoriously
+[bad at disrupting themselves](https://en.wikipedia.org/wiki/Disruptive_innovation), such innovations must usually arrive
+from outside the organization. 
 
 ## Sharing Progress with 3rd Parties
 
