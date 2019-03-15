@@ -118,8 +118,8 @@ Legacy code is simply code without tests. ― Michael C. Feathers, Working Effec
 ```
 
 Few topics are as divisive and controversal among engineers as that of rewriting services. This is seen as a
-sort of engineer obsession and that engineers will always opt to write something new as opposed to work on a legacy
-codebase. 
+sort of engineer obsession and that engineers will always opt to write something new as opposed to work on a [legacy
+codebase](https://samuelmullen.com/articles/legacy_isnt_a_bad_word/). 
 
 Service rewrites are possible and can return value, but are the exception and not the norm. It requires trememdous
 buy in from stakeholders over a long period of time, which makes it incredibly risky. Furthermore, if the team
