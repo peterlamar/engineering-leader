@@ -69,7 +69,7 @@ Communication can be a big challenge as a team grows in size. The links between 
 
 ## How to stay on top of technical developments?
 
-1. Stay up to date with data driven research on industry trends. Resources such as the [annual state of devops report](https://cloudplatformonline.com/2018-state-of-devops.html), [python developer report](https://www.jetbrains.com/research/python-developers-survey-2018/), and [stack overflow trends](https://insights.stackoverflow.com/trends?tags=python%2Cjavascript%2Cjava%2Cc%23%2Cphp%2Cc%2B%2B&utm_source=so-owned&utm_medium=blog&utm_campaign=gen-blog&utm_content=blog-link&utm_term=incredible-growth-python) are just a few of the excellent resources available.
+1. Stay up to date with data driven research on industry trends. Resources such as the [annual state of devops report](https://cloudplatformonline.com/2018-state-of-devops.html), [python developer report](https://www.jetbrains.com/research/python-developers-survey-2018/), and [stack overflow trends](https://insights.stackoverflow.com/trends?tags=python%2Cjavascript%2Cjava%2Cc%23%2Cphp%2Cc%2B%2B&utm_source=so-owned&utm_medium=blog&utm_campaign=gen-blog&utm_content=blog-link&utm_term=incredible-growth-python) and finally [kp internet trends report](https://www.kleinerperkins.com/perspectives/internet-trends-report-2018/) are just a few of the excellent resources available.
 
 2. Contribute to open source, which keeps one sharp as open source contributors will often hold you work to a high standard which isn't always the case within an organization for various reasons. 
 
