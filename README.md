@@ -165,3 +165,5 @@ compared to similar teams in a startup and developing solely in cloud.
 Really good engineer resources on creating and maintaining excellent code 
 1. [Flatten code arrows](https://blog.codinghorror.com/flattening-arrow-code/) Excellent and practical on the all too prevelant nested if's
 2. [A Philosophy of Software Design](https://hackernewsbooks.com/book/a-philosophy-of-software-design/12be0ff26a765aa737d6b042043aa079) A great design book with lots of examples from class experience
+3. [Deep Work](https://hackernewsbooks.com/book/deep-work-rules-for-focused-success-in-a-distracted-world/d1b3b31390821e96e1e8f5a5f8855444) Great info about productivity and managing distractions
+4. [Culture Code](https://www.goodreads.com/book/show/33517721-the-culture-code) Useful for understanding how groups work and how to create positive, better work environments
