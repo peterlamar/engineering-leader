@@ -160,6 +160,11 @@ and utilize it. Once a few of these form submitting processes add up (after all,
 for the flood) and its quite understandable to see how unproductive large enterprise engineering teams can become 
 compared to similar teams in a startup and developing solely in cloud. 
 
+## Managing work cadence and deliverables
+
+Agile can be useful if it is well understand and adapted to a specific team. Often a heavy, waterfall-like version is imposed on teams
+at medium and large enterprises. Given the freedom and a small team setting, it is better to start lighter than heavier. You can always add processes as needed but processes are hard to kill once in place. [Agile light](https://github.com/davebs/AgileLite) or similar resource is a good place to start in this regard. 
+
 ## Eng Light Reading
 
 Really good engineer resources on creating and maintaining excellent code 
