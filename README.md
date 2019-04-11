@@ -113,6 +113,8 @@ Technical investment work can be framed as improvements, fixes and Upgrade/Updat
 * At Google there was a joke that there was always two systems in regards to infrastructure. One that is depreciated
 and another that doesn't work. 
 
+* Additionally, at Google they [encourage](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf) occaisonal rewrites. This is a bold stance that flies in the face of conventional wisdom of never rewriting software. As a single anecdote, consider Outlook vs Gmail. I have had way more experiences with bugs with one of those than the other.  
+
 ```quote
 Legacy code is simply code without tests. ― Michael C. Feathers, Working Effectively with Legacy Code
 ```
@@ -172,3 +174,4 @@ Really good engineer resources on creating and maintaining excellent code
 2. [A Philosophy of Software Design](https://hackernewsbooks.com/book/a-philosophy-of-software-design/12be0ff26a765aa737d6b042043aa079) A great design book with lots of examples from class experience
 3. [Deep Work](https://hackernewsbooks.com/book/deep-work-rules-for-focused-success-in-a-distracted-world/d1b3b31390821e96e1e8f5a5f8855444) Great info about productivity and managing distractions
 4. [Culture Code](https://www.goodreads.com/book/show/33517721-the-culture-code) Useful for understanding how groups work and how to create positive, better work environments
+5. [Software Engineering at Google](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf) Bold engineering principles at Google
