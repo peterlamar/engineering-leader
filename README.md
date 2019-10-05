@@ -1,6 +1,6 @@
 # Leading and Managing Engineers
 
-This is a starting set of knowledge for leading engineers in an organization. This can never encompase everything but can spire to be a useful place to start. 
+This is a starting set of knowledge for leading engineers in an organization. This can never encompass everything but can aspire to be a useful place to start. 
 
 * Constructive feedback and contributions are always welcome.
 
