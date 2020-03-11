@@ -167,6 +167,20 @@ compared to similar teams in a startup and developing solely in cloud.
 Agile can be useful if it is well understand and adapted to a specific team. Often a heavy, waterfall-like version is imposed on teams
 at medium and large enterprises. Given the freedom and a small team setting, it is better to start lighter than heavier. You can always add processes as needed but processes are hard to kill once in place. [Agile light](https://github.com/davebs/AgileLite) or similar resource is a good place to start in this regard. 
 
+## Distributed teams
+
+1. Some people do not work well remote, and thats ok
+1. Don't expect the same level of bonding with remote teams vs local ones. However, activites such as 'Fun Hat Friday' do help in this regard.
+1. Turn on cameras during meetings, this helps with bonding and communicating social cues. 
+1. Use emoji, its helps convey emotion otherwise lost in text.
+1. Over-communicate, particularly for managers. 
+1. Have a great workspace that you enjoy and invest in it. 
+
+References:
+
+[Mitchell Hashimoto](https://twitter.com/mitchellh/status/1237540985577459712)
+
+
 ## Eng Light Reading
 
 Really good engineer resources on creating and maintaining excellent code 
