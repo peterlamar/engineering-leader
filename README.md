@@ -108,6 +108,17 @@ bar charts and other measurements but clearly impacts productivity.
 
 Technical investment work can be framed as improvements, fixes and Upgrade/Updates to Security, Performance, Throughput and Stability. When possible, develop a strategy for iterating and measuring your way to improvement.
 
+### Complexity
+
+There are two main sources of complexity
+* Dependencies
+* Obscurity 
+
+Three symptoms of complexity
+* Change Amplification - Simple changes requiring update in many places
+* Cognitive load - How much a developer needs to know to complete a task
+* Unknown unknowns - It's not obvious which code must be modified to complete a task
+
 ### Rewriting services
 
 * At Google there was a joke that there was always two systems in regards to infrastructure. One that is depreciated
