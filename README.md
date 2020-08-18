@@ -173,6 +173,10 @@ and utilize it. Once a few of these form submitting processes add up (after all,
 for the flood) and its quite understandable to see how unproductive large enterprise engineering teams can become 
 compared to similar teams in a startup and developing solely in cloud. 
 
+### Backups
+
+Schrodinger Backups: The condition of any backup is unknown until a restore is attempted. So resture from backups regularly! There is an embarrising amount of bounty money paid to hackers because the database was encrypted by an attack and the backups do not work or were obsolete. 
+
 ## Managing work cadence and deliverables
 
 Agile can be useful if it is well understand and adapted to a specific team. Often a heavy, waterfall-like version is imposed on teams
