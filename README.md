@@ -104,7 +104,7 @@ There is a common trap for a non-technical manager is to overly reward engineers
 ## Technical Debt
 
 Technical debt is a killer of productivity and often difficult to describe to key decision makers. It eludes simple
-bar charts and other measurements but clearly impacts productivity. 
+bar charts and other measurements but clearly impacts productivity. Is can be described many ways, including a measurement of Complexity or simply lacking tests or some other decided upon minimum standard. 
 
 Technical investment work can be framed as improvements, fixes and Upgrade/Updates to Security, Performance, Throughput and Stability. When possible, develop a strategy for iterating and measuring your way to improvement.
 
