@@ -93,11 +93,13 @@ Individual engineers can be evaluated on both productivity and quality as well.
 
 * Quality is more difficult, there are some things to look for as data points to contribute. 
 
+1. 360 feedback aka asking the peers about an individual in their respective 1:1's. Teams who work with someone on a daily basis are difficult to fool and will have an excellent perspective in which to evaluate performance. 
+
 1. Unit tests - Automated testing is a key indicator of quality. If an engineer fixes a bug and doesn't also create a test to ensure the bug stays fixed, then how does one know the engineer didn't cause two other bugs when they fixed the first bug? Without tests, the engineer could theorectically work forever causing bugs every time they fix a bug and then refixing the same bugs. Tests would let the engineer know when previously working code has been broken due to new changes. 
 
-2. Comments - Documentation that shares how a code works
+1. Comments - Documentation that shares how a code works
 
-3. Elegance/brevity - This is more subjective, but typically less code to accomplish a task is better than more. Simpler is better than complex. If a solution is simple and short it is typically better than a solution that is big and complex. Complexity of course can not be avoided but it should be fought for every inch of ground given up. 
+1. Elegance/brevity - This is more subjective, but typically less code to accomplish a task is better than more. Simpler is better than complex. If a solution is simple and short it is typically better than a solution that is big and complex. Complexity of course can not be avoided but it should be fought for every inch of ground given up. 
 
 There is a common trap for a non-technical manager is to overly reward engineers who are productive at the expense of quality. This results in some common anti-patterns such as 'rockstar' engineers who create untested, difficult to maintain spaghetti code but are increasingly rewarded by an organization. Other 'average' engineers are often tasked with maintaining the service afterwards and can be blammed for delays in this code as they finish implementing the shortcuts of the 'rockstar'.
 
