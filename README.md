@@ -202,7 +202,9 @@ References:
 
 Really good engineer resources on creating and maintaining excellent code 
 1. [Flatten code arrows](https://blog.codinghorror.com/flattening-arrow-code/) Excellent and practical on the all too prevelant nested if's
-2. [A Philosophy of Software Design](https://hackernewsbooks.com/book/a-philosophy-of-software-design/12be0ff26a765aa737d6b042043aa079) A great design book with lots of examples from class experience
-3. [Deep Work](https://hackernewsbooks.com/book/deep-work-rules-for-focused-success-in-a-distracted-world/d1b3b31390821e96e1e8f5a5f8855444) Great info about productivity and managing distractions
-4. [Culture Code](https://www.goodreads.com/book/show/33517721-the-culture-code) Useful for understanding how groups work and how to create positive, better work environments
-5. [Software Engineering at Google](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf) Bold engineering principles at Google
+1. [A Philosophy of Software Design](https://hackernewsbooks.com/book/a-philosophy-of-software-design/12be0ff26a765aa737d6b042043aa079) A great design book with lots of examples from class experience
+1. [Deep Work](https://hackernewsbooks.com/book/deep-work-rules-for-focused-success-in-a-distracted-world/d1b3b31390821e96e1e8f5a5f8855444) Great info about productivity and managing distractions
+1. [Culture Code](https://www.goodreads.com/book/show/33517721-the-culture-code) Useful for understanding how groups work and how to create positive, better work environments
+1. [Software Engineering at Google](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf) Bold engineering principles at Google
+1. [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) Excellent reference on data structures and scaling
+1. [Building Secure and Reliable Systems](https://www.amazon.com/Building-Secure-Reliable-Systems-Implementing/dp/1492083127) Update on building and maintaining modern systems
