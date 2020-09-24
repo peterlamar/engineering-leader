@@ -60,6 +60,10 @@ It is important to be humble in regards to interviewing. Good candidates may fai
 
 - System design [question](https://github.com/donnemartin/system-design-primer) (How would you design an online web app that does x..). These questions tend to favor those with practical experience or a coding hobby. 
 
+- Behavioral General ability to communicate and bucket for soft skills
+
+- Misc. Sometimes candidates have skills and capabilities that general correlate with high performance. Perhaps they contribute to open source or have an impressive github project.
+
 ## Teams and meetings
 
 Communication can be a big challenge as a team grows in size. The links between team members can be [modeled](http://blog.idonethis.com/two-pizza-team/) as (n*(n-1))/2 or roughly n^2. A team of 5 people has 10 links between the members whereas a team of 14 has 91. [Experiments](http://www.opim.wharton.upenn.edu/~kmilkman/2012_OBHDPb.pdf) have shown larger teams can be less efficient. Finally, the US Military has conducted extensive research on the topic and has found the [ideal team size](https://www.amazon.com/Team-Teams-Rules-Engagement-Complex/dp/1591847486) to be five members. Two recommendations can be drawn from this:
