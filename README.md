@@ -67,6 +67,7 @@ It is important to be humble in regards to interviewing. Good candidates may fai
 1. Interesting side projects
 1. University or prior work pedigree 
 1. Math minors or other scientific degrees
+1. Interest in multiple programming languages/tools
 
 ## Teams and meetings
 
