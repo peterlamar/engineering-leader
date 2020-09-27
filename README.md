@@ -62,7 +62,11 @@ It is important to be humble in regards to interviewing. Good candidates may fai
 
 - Behavioral General ability to communicate and bucket for soft skills
 
-- Misc. Sometimes candidates have skills and capabilities that general correlate with high performance. Perhaps they contribute to open source or have an impressive github project.
+- Misc. Sometimes candidates have skills and capabilities in my experience that generally but not always correlate with high performance. 
+1. Open source contributions
+1. Interesting side projects
+1. University or prior work pedigree 
+1. Math minors or other scientific degrees
 
 ## Teams and meetings
 
