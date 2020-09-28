@@ -96,6 +96,16 @@ Data from the [annual devops report](https://cloudplatformonline.com/2018-state-
 
 This can be a useful data point when measuring team performance. Some teams may be really productive but have poor quality. Other teams may excell at both and others still may do poorly at both. 
 
+#### Google Rework Study
+
+Five key dynamics that set successful teams apart from other [teams at Google](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
+
+1. Psychological safety: Can we take risks on this team without feeling insecure or embarrassed?
+1. Dependability: Can we count on each other to do high quality work on time?
+1. Structure & clarity: Are goals, roles, and execution plans on our team clear?
+1. Meaning of work: Are we working on something that is personally important for each of us?
+1. Impact of work: Do we fundamentally believe that the work we’re doing matters?
+
 ### Individuals
 
 Individual engineers can be evaluated on both productivity and quality as well. 
