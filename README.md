@@ -69,6 +69,14 @@ It is important to be humble in regards to interviewing. Good candidates may fai
 1. Math minors or other scientific degrees
 1. Interest in multiple programming languages/tools
 
+## Hiring
+
+When hiring, aim to be transparent and hiring with offers in line with data. Expect a funnel with a percentage of closing rates that resembles a typical sales funnel. 
+
+References
+
+1. [Notion](https://www.notion.so/Startup-Hiring-101-A-Founder-s-Guide-946dad6dd9fd433abdd12338a83e931f)
+
 ## Teams and meetings
 
 Communication can be a big challenge as a team grows in size. The links between team members can be [modeled](http://blog.idonethis.com/two-pizza-team/) as (n*(n-1))/2 or roughly n^2. A team of 5 people has 10 links between the members whereas a team of 14 has 91. [Experiments](http://www.opim.wharton.upenn.edu/~kmilkman/2012_OBHDPb.pdf) have shown larger teams can be less efficient. Finally, the US Military has conducted extensive research on the topic and has found the [ideal team size](https://www.amazon.com/Team-Teams-Rules-Engagement-Complex/dp/1591847486) to be five members. Two recommendations can be drawn from this:
