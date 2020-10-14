@@ -100,9 +100,18 @@ Software Engineer performance is difficult to measure objectively.
 
 ### Teams
 
-Data from the [annual devops report](https://cloudplatformonline.com/2018-state-of-devops.html) which has surveyed over 30,000 developers over the past five years has found the best measures a combination of productivity and quality. Specifically 'Deployment frequency' and 'Lead time for changes' as a measure of productivity and 'Time to restore service' and 'Change failure rate' as measures of quality. They have found these measures sufficient to segment performance between Elite, High, Medium and Low performers. 
+Data from the [annual devops report](https://cloudplatformonline.com/2018-state-of-devops.html) which has surveyed over 30,000 developers over the past five years has found the best measures a combination of productivity and quality. 
 
-This can be a useful data point when measuring team performance. Some teams may be really productive but have poor quality. Other teams may excell at both and others still may do poorly at both. 
+Productivity/Throughput
+
+1. Deployment frequency
+1. Lead time for changes
+
+Quality
+1. Time to restore service
+1. Change failure rate - The number of deployments in which something goes wrong
+
+They have found these measures sufficient to segment performance between Elite, High, Medium and Low performers. This can be a useful data point when measuring team performance. Some teams may be really productive but have poor quality. Other teams may excell at both and others still may do poorly at both. 
 
 #### Google Rework Study
 
