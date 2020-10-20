@@ -90,6 +90,10 @@ Bias is real and a team is well served by actively combating it, otherwise you w
 1. Sourcing candidates from Universities and recruiting are higher yield strategies for getting a diverse candidate pool
 1. One strategy I found interesting to the email the candidates the category and information on the questions I would ask. Even doing so, I found 1/5 candidates noticably used the information to prepare for the phone screen (across roughly 100 candidates for one job posting at one company). I hoped that this allowed candidates who wanted the job more the option to prepare as the majority of candidates seemed to ignore the information. 
 
+### On who to hire
+
+I have found that one should aim to hire for strengths rather than lack of weakness. Nearly all High performing individuals tend to have severe weaknesses in my experience and yet they can do remarkable things, such as actually be a '10x engineer'. However, this is harder than it seems as committees tend to hire for lack of weakness as its a more conservative strategy. This is a way to get good but rarely great candidates as nearly all the competitors will be hiring for lack of weakness as well. 
+
 ## Teams and meetings
 
 Communication can be a big challenge as a team grows in size. The links between team members can be [modeled](http://blog.idonethis.com/two-pizza-team/) as (n*(n-1))/2 or roughly n^2. A team of 5 people has 10 links between the members whereas a team of 14 has 91. [Experiments](http://www.opim.wharton.upenn.edu/~kmilkman/2012_OBHDPb.pdf) have shown larger teams can be less efficient. Finally, the US Military has conducted extensive research on the topic and has found the [ideal team size](https://www.amazon.com/Team-Teams-Rules-Engagement-Complex/dp/1591847486) to be five members. Two recommendations can be drawn from this:
