@@ -88,6 +88,7 @@ Bias is real and a team is well served by actively combating it, otherwise you w
 1. Have a standard scoring system based on weighted evaluations, for example the five categories explained in this post, and ask interviewers to explain their scores for candidates.
 1. When possible, share the resume without identifying information
 1. Sourcing candidates from Universities and recruiting are higher yield strategies for getting a diverse candidate pool
+1. One strategy I found interesting to the email the candidates the category and information on the questions I would ask. Even doing so, I found 1/5 candidates noticably used the information to prepare for the phone screen (across roughly 100 candidates for one job posting at one company). I hoped that this allowed candidates who wanted the job more the option to prepare as the majority of candidates seemed to ignore the information. 
 
 ## Teams and meetings
 
