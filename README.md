@@ -77,6 +77,18 @@ References
 
 1. [Notion](https://www.notion.so/Startup-Hiring-101-A-Founder-s-Guide-946dad6dd9fd433abdd12338a83e931f)
 
+### Combating Bias and Diversity Strategies
+
+Bias is real and a team is well served by actively combating it, otherwise you will likely end up with a team that lacks diversity and thus be lower performing. Some steps that help reduce bias:
+
+1. Use automation whenever possible. For example, using a tech screen for new candidates vs a resume screen is a good way to get a broader qualified applicate pool and helps those who have the skills but not the pedigree. 
+1. Have a diverse hiring committee contributes to hiring diverse candidates
+1. Use the same diverse committee to review job posts as well to make them neutral
+1. Have hiring managers blind to each others feedback until everyone has contributed their own feedback 
+1. Have a standard scoring system based on weighted evaluations, for example the five categories explained in this post, and ask interviewers to explain their scores for candidates.
+1. When possible, share the resume without identifying information
+1. Sourcing candidates from Universities and recruiting are higher yield strategies for getting a diverse candidate pool
+
 ## Teams and meetings
 
 Communication can be a big challenge as a team grows in size. The links between team members can be [modeled](http://blog.idonethis.com/two-pizza-team/) as (n*(n-1))/2 or roughly n^2. A team of 5 people has 10 links between the members whereas a team of 14 has 91. [Experiments](http://www.opim.wharton.upenn.edu/~kmilkman/2012_OBHDPb.pdf) have shown larger teams can be less efficient. Finally, the US Military has conducted extensive research on the topic and has found the [ideal team size](https://www.amazon.com/Team-Teams-Rules-Engagement-Complex/dp/1591847486) to be five members. Two recommendations can be drawn from this:
