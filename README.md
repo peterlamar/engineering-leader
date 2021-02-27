@@ -241,12 +241,25 @@ at medium and large enterprises. Given the freedom and a small team setting, it 
 
 ## Distributed teams
 
-1. Some people do not work well remote, and thats ok
-1. Don't expect the same level of bonding with remote teams vs local ones. However, activites such as 'Fun Hat Friday' do help in this regard.
-1. Turn on cameras during meetings, this helps with bonding and communicating social cues. 
-1. Use emoji, its helps convey emotion otherwise lost in text.
-1. Over-communicate, particularly for managers. 
-1. Have a great workspace that you enjoy and invest in it. 
+* Some people do not work well remote, and thats ok
+* Don't expect the same level of bonding with remote teams vs local ones. However, activites such as 'Fun Hat Friday' do help in this regard.
+* Turn on cameras during meetings, this helps with bonding and communicating social cues. 
+* Use emoji, its helps convey emotion otherwise lost in text.
+* Over-communicate, particularly for managers. 
+* Have a great workspace that you enjoy and invest in it. 
+* Periodically share articles or media with people on topics discussed in the past, take notes of interests of team members if needed to make this happen
+* 70% of communications are non-verbal and text can be a poor medium, be patient and reflect on miscommunications as an opportunity to level up. 
+* Get comfortable with quick 10 min zoom/phone calls
+* Over clarify expectionas and how people feel about a topic
+
+### Co-Worker friendly knowledge checklist
+* How much do you know about their family? (Spouse, kids, parents, siblings?)
+* How much do you know about hobbies, goals or interests?
+* How are they feeling overall?
+
+### Distributed Teams Meeting ideas
+* 15 minute watercoolers to promote discussion on any topic
+* 1/week meal meeting to encourage bonding and longer form discussion
 
 References:
 
