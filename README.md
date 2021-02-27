@@ -251,15 +251,18 @@ at medium and large enterprises. Given the freedom and a small team setting, it 
 * 70% of communications are non-verbal and text can be a poor medium, be patient and reflect on miscommunications as an opportunity to level up. 
 * Get comfortable with quick 10 min zoom/phone calls
 * Over clarify expectionas and how people feel about a topic
+* Show gratitude to your team!
 
 ### Co-Worker friendly knowledge checklist
 * How much do you know about their family? (Spouse, kids, parents, siblings?)
 * How much do you know about hobbies, goals or interests?
 * How are they feeling overall?
 
-### Distributed Teams Meeting ideas
+### Informal Team Bonding Tactics
 * 15 minute watercoolers to promote discussion on any topic
 * 1/week meal meeting to encourage bonding and longer form discussion
+* Virtual Holiday parties
+* Celebrate occasions such as baby showers
 
 References:
 
