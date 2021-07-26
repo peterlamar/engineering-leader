@@ -30,11 +30,13 @@ A key to being able to grow is being able to focus. Studies and some personal ex
 * Allow engineers at least 24 hours to respond to any email or instant message
 * Encourage those nearby to take calls in office rooms rather than the desk in the open office space
 
-## 1on1s
+## Coaching
+
+### 1on1s
 
 Having [good 1on1's](https://a16z.com/2012/08/30/one-on-one/) relies on the belief that it is the employee's meeting, as they should do 90% of the talking. It is a free form meeting for any issues, concerns, ideas and frustrations not easily expressed in more formal channels. Ultimately, the [goal](https://a16z.com/2012/08/18/a-good-place-to-work/) of the 1on1 is the create a great company. 
 
-## Feedback
+### Feedback
 
 Feedback is a gift. It is difficult to give, especially with quality. It is an ['unatural act'](https://www.radicalcandor.com/about-radical-candor/) Feedback should be received and given:
 
@@ -44,9 +46,22 @@ Feedback is a gift. It is difficult to give, especially with quality. It is an [
 
 Sometimes ask the person if they wish to have the feedback to illustrate its for their growth. 
 
-## Training
+### Training
 
 Andy Grove [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK/ref=sr_1_1?ie=UTF8&qid=1526430507&sr=8-1&keywords=high+output+management) states that there are only two ways for a manager to improve the output of an employee, motivation and training. Training is a high return activity that should be led by the managers of an organization. a16z [shares](https://a16z.com/2010/05/14/why-startups-should-train-their-people/) how this is a great method to set expectations within an organization.
+
+### Low Performers
+
+Performance is attributed to a mix of individual and situation. As a hobby farmer, I enjoy using a plants analogy. Different plants need different circumstances, some do better with lots of water while others need to dry out for example.  Some plants such as pine trees are highly resilent and can grow in any condition including the middle of a swamp but don't product much in the way of fruit. Peach trees however, require a very specific mix of light, soil, water and protection from pests and mold but can produce a bumper harvest of fruit in the right conditions.  While it is more challenging, some thought should be given to if the circumstance fits the individual and if they are setup for success. 
+
+If this can be ruled out, sometimes people are in a good situation but still miss expectations. Sometimes its because they are not working hard enough and unfortunely other times performance will not improve no matter how hard they work. In this case keeping the low performer on the team doesn't do them any favors and likely keeps them from a better fit elsewhere.
+
+### Coaching Low Performers
+
+Coaching low performers often requires temporary micromanagement, and a lot of trust and respect from both sides.
+* Set specific time frame with specific measurable goals so that there is opportunity for small success
+* Meet weekly and setup explicit expectations around each milestone
+* Low performer will likely quit or up their game
 
 ## Interviewing
 
