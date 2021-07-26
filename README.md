@@ -30,6 +30,19 @@ A key to being able to grow is being able to focus. Studies and some personal ex
 * Allow engineers at least 24 hours to respond to any email or instant message
 * Encourage those nearby to take calls in office rooms rather than the desk in the open office space
 
+## Prioritization
+
+```
+I have two kinds of problems, the urgent and the important. The urgent are not impor‐
+tant, and the important are never urgent.
+- US President Dwight D. Eisenhower. 1954
+```
+
+The job of a leader is to force yourself to work on important things, rather than urgent things. 
+* Delegate - many urgent things can be delgated back to other leaders in the organization
+* Schedule Dedicated things - Block out time to work on important tasks such as strategy, career paths, and higher level collaboration
+* Find tracking system that works - Method of tracking goals including low level pomodoro type focusing to high level goals such as OKRs
+
 ## Coaching
 
 ### 1on1s
