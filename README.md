@@ -38,7 +38,7 @@ tant, and the important are never urgent.
 - US President Dwight D. Eisenhower. 1954
 ```
 
-The job of a leader is to force yourself to work on important things, rather than urgent things. 
+The job of a leader is to force yourself (and lead the team) to work on important things, rather than urgent things. 
 * Delegate - many urgent things can be delgated back to other leaders in the organization
 * Schedule Dedicated things - Block out time to work on important tasks such as strategy, career paths, and higher level collaboration
 * Find tracking system that works - Method of tracking goals including low level pomodoro type focusing to high level goals such as OKRs
@@ -67,14 +67,14 @@ Andy Grove [High Output Management](https://www.amazon.com/High-Output-Managemen
 
 Performance is attributed to a mix of individual and situation. As a hobby farmer, I enjoy using a plants analogy. Different plants need different circumstances, some do better with lots of water while others need to dry out for example.  Some plants such as pine trees are highly resilent and can grow in any condition including the middle of a swamp but don't product much in the way of fruit. Peach trees however, require a very specific mix of light, soil, water and protection from pests and mold but can produce a bumper harvest of fruit in the right conditions.  While it is more challenging, some thought should be given to if the circumstance fits the individual and if they are setup for success. 
 
-If this can be ruled out, sometimes people are in a good situation but still miss expectations. Sometimes its because they are not working hard enough and unfortunely other times performance will not improve no matter how hard they work. In this case keeping the low performer on the team doesn't do them any favors and likely keeps them from a better fit elsewhere.
+If this can be ruled out, sometimes people are in a good situation but still miss expectations. Sometimes its because they are not working hard enough and unfortunely other times performance will not improve despite hard work as they are a poor fit for the role. In this case keeping the low performer on the team doesn't do them any favors and likely keeps them from a better fit elsewhere.
 
 ### Coaching Low Performers
 
 Coaching low performers often requires temporary micromanagement, and a lot of trust and respect from both sides.
 * Set specific time frame with specific measurable goals so that there is opportunity for small success
 * Meet weekly and setup explicit expectations around each milestone
-* Low performer will likely quit or up their game
+* Low performer will likely improve or find another opportunity
 
 ## Interviewing
 
@@ -130,6 +130,8 @@ Communication can be a big challenge as a team grows in size. The links between 
 2. Meetings should be as small as possible and invite those deemed absolutely necessary. Jeff Bezos ([allegedly](https://www.cnbc.com/2017/08/16/how-jeff-bezos-two-pizza-rule-can-lead-to-more-productive-meetings.html)) will not even show up if the meeting has more than 10 people. For the rest of us, an [8-18-1800](https://hbr.org/2015/03/how-to-know-if-there-are-too-many-people-in-your-meeting) rule can be a good guideline.
 
 ## How to stay on top of technical developments?
+
+Even the sharpest knife can get dull over time.
 
 1. Read the top engineering blogs such as [Facebook engineering](https://engineering.fb.com/), [Stripe](https://stripe.com/blog/engineering), [Twitter](https://blog.twitter.com/engineering/en_us.html) and others 
 
