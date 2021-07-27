@@ -63,13 +63,15 @@ Sometimes ask the person if they wish to have the feedback to illustrate its for
 
 Andy Grove [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK/ref=sr_1_1?ie=UTF8&qid=1526430507&sr=8-1&keywords=high+output+management) states that there are only two ways for a manager to improve the output of an employee, motivation and training. Training is a high return activity that should be led by the managers of an organization. a16z [shares](https://a16z.com/2010/05/14/why-startups-should-train-their-people/) how this is a great method to set expectations within an organization.
 
-### Low Performers
+### Performance
 
-Performance is attributed to a mix of individual and situation. As a hobby farmer, I enjoy using a plants analogy. Different plants need different circumstances, some do better with lots of water while others need to dry out for example.  Some plants such as pine trees are highly resilent and can grow in any condition including the middle of a swamp but don't product much in the way of fruit. Peach trees however, require a very specific mix of light, soil, water and protection from pests and mold but can produce a bumper harvest of fruit in the right conditions.  While it is more challenging, some thought should be given to if the circumstance fits the individual and if they are setup for success. 
+Performance is attributed to a mix of individual and situation. As a hobby farmer, I enjoy using a plants analogy. Different plants need different circumstances, some do better with lots of water while others need to dry out for example. Some plants such as pine trees are highly resilent and can grow in any condition, including the middle of a swamp for example, but don't product much in the way of fruit. Peach trees however, require a very specific mix of light, soil, water and protection from pests but can produce a bumper harvest of fruit in the right conditions.  
 
-If this can be ruled out, sometimes people are in a good situation but still miss expectations. Sometimes its because they are not working hard enough and unfortunely other times performance will not improve despite hard work as they are a poor fit for the role. In this case keeping the low performer on the team doesn't do them any favors and likely keeps them from a better fit elsewhere.
+Performance is often a tradeoff. An engineer may be 10x more productive than their peers as long as they work in a specific codebase and language but may be very inflexible with tasks that fall outside their preference. Other engineers are good at learning any new language and decifering ambiguity, but don't excel in any one area. Even in nature, specialists thrive when the [environment is stable](https://natureecoevocommunity.nature.com/posts/66199-generalists-or-specialists-population-size-can-be-an-important-determinant) and generalists when there is more upheaval. 
 
-### Coaching Low Performers
+### Coaching to improve performance
+
+Thought should be given to if the circumstance fits the individual and if they are setup for success. Sometimes people are in a good situation but still miss expectations. Sometimes its because they are not working hard enough and unfortunely other times performance will not improve despite hard work as they are a poor fit for the role. In this case keeping the low performer on the team doesn't do them any favors and likely keeps them from a better fit elsewhere.
 
 Coaching low performers often requires temporary micromanagement, and a lot of trust and respect from both sides.
 * Set specific time frame with specific measurable goals so that there is opportunity for small success
