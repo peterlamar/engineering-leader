@@ -64,6 +64,14 @@ Sometimes ask the person if they wish to have the feedback to illustrate its for
 
 Andy Grove [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK/ref=sr_1_1?ie=UTF8&qid=1526430507&sr=8-1&keywords=high+output+management) states that there are only two ways for a manager to improve the output of an employee, motivation and training. Training is a high return activity that should be led by the managers of an organization. a16z [shares](https://a16z.com/2010/05/14/why-startups-should-train-their-people/) how this is a great method to set expectations within an organization.
 
+### Motivation
+
+Developers are primarily motivated with intrinsic motivation, feeling ownership with their products and working to make them succeed. [Intrinsic motivation](https://www.ted.com/talks/dan_pink_the_puzzle_of_motivation) is driven by
+
+* Autonomy - Allowing developers to drive their work and influence the direction and goals of the product
+* Mastery - This is huge, opportunity to improve existing skills and learn new ones. The video game industry is driven in no small part by our inborn desire for progression and mastery. Experts can do amazing things if allowed to grow their knowledge one small victory at a time. 
+* Purpose - Working on products that have significance and seeing the effects of your work. In a dramatic example, Elon Musk companies have recently been able to harness this with thier employees with the incredible amount of work that went into the Tesla vehicles (Move from Fossil Fuels) vs the much larger traditional auto makers and the progress of SpaceX (Occupy Mars) compared to the traditional space industry. 
+
 ### Performance
 
 Performance is attributed to a mix of individual and situation. As a hobby farmer, I enjoy using a plants analogy. Different plants need different circumstances, some do better with lots of water while others need to dry out for example. Some plants such as pine trees are highly resilent and can grow in any condition, including the middle of a swamp for example, but don't product much in the way of fruit. Peach trees however, require a very specific mix of light, soil, water and protection from pests but can produce a bumper harvest of fruit in the right conditions.  
