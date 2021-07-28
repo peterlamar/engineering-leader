@@ -87,7 +87,13 @@ Coaching low performers often requires temporary micromanagement, and a lot of t
 * Meet weekly and setup explicit expectations around each milestone
 * Low performer will likely improve or find another opportunity
 
-## Interviewing
+
+
+## Hiring
+
+When hiring, aim to be transparent and hiring with offers in line with data. Expect a funnel with a percentage of closing rates that resembles a typical sales funnel. 
+
+### Interviewing
 
 It is important to be humble in regards to interviewing. Good candidates may fail the interview and bad candidates may game your system. Nevertheless, it is important to be disciplined and always improving the interview practice based on feedback. Inspiring by [Steve Yegge's](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions) post, I have found asking questions that cover multiple areas of computer science allows stronger computer science candidates to succeed and these candidates are generally more flexible and capable than asking trivia about a single technology. I try to cover:
 
@@ -107,10 +113,6 @@ It is important to be humble in regards to interviewing. Good candidates may fai
 1. University or prior work pedigree 
 1. Math minors or other scientific degrees
 1. Interest in multiple programming languages/tools
-
-## Hiring
-
-When hiring, aim to be transparent and hiring with offers in line with data. Expect a funnel with a percentage of closing rates that resembles a typical sales funnel. 
 
 References
 
