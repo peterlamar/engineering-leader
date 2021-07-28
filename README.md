@@ -1,10 +1,10 @@
-# Leading and Managing Engineers
+# Leadin Engineers
 
 This is a starting set of knowledge for leading engineers in an organization. This can never encompass everything but can aspire to be a useful place to start. 
 
 * Constructive feedback and contributions are always welcome.
 
-## As a Leader or Manager
+## As a Leader 
 
 A leader in an organization should seek to emulate the following:
 
