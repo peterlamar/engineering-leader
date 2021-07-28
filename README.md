@@ -42,7 +42,7 @@ tant, and the important are never urgent.
 The job of a leader is to force yourself (and lead the team) to work on important things, rather than urgent things. 
 * Delegate - many urgent things can be delgated back to other leaders in the organization
 * Schedule Dedicated things - Block out time to work on important tasks such as strategy, career paths, and higher level collaboration
-* Find tracking system that works - Method of tracking goals including low level pomodoro type focusing to high level goals such as OKRs
+* Find tracking system that works - Method of tracking goals including low level pomodoro type focusing to high level goals such as [OKRs](https://www.whatmatters.com/faqs/okr-meaning-definition-example/) or [GSM](https://www.atlassian.com/team-playbook/plays/goals-signals-measures)
 
 ## Coaching
 
