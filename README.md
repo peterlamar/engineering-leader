@@ -1,4 +1,4 @@
-# Leadin Engineers
+# Leading Engineers
 
 This is a starting set of knowledge for leading engineers in an organization. This can never encompass everything but can aspire to be a useful place to start. 
 
