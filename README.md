@@ -187,7 +187,9 @@ Individual engineers can be evaluated on both productivity and quality as well.
 
 * Productivity is easier to measure than quality and I would argue less important. An agile course or a scrum board can help you estimate tasks and track their execution over time thus reasonably measuring productivity. Non technical managers can do a good job in this area with agile experience. 
 
-* Quality is more difficult, there are some things to look for as data points to contribute. 
+* Quality is more difficult, there are some things to look for as data points to contribute to a weighted sense. 
+
+1. Achieving agreed up goals is a useful signal and probably the closest proxy to passion and productivity
 
 1. 360 feedback aka asking the peers about an individual in their respective 1:1's. Teams who work with someone on a daily basis are difficult to fool and will have an excellent perspective in which to evaluate performance. 
 
@@ -195,7 +197,7 @@ Individual engineers can be evaluated on both productivity and quality as well.
 
 1. Comments - Documentation that shares how a code works
 
-1. Elegance/brevity - This is more subjective, but typically less code to accomplish a task is better than more. Simpler is better than complex. If a solution is simple and short it is typically better than a solution that is big and complex. Complexity of course can not be avoided but it should be fought for every inch of ground given up. 
+1. Elegance/brevity - This is more subjective, but typically less code to accomplish a task is better than more. Simpler is better than complex. If a solution is simple and short it is typically better than a solution that is big and complex. Complexity of course can not be avoided but it should be fought for every inch of ground given up. Instead of counting lines of code, perhaps thinking of a solution as to how many lines it cost?
 
 There is a common trap for a non-technical manager is to overly reward engineers who are productive at the expense of quality. This results in some common anti-patterns such as 'rockstar' engineers who create untested, difficult to maintain spaghetti code but are increasingly rewarded by an organization. Other 'average' engineers are often tasked with maintaining the service afterwards and can be blammed for delays in this code as they finish implementing the shortcuts of the 'rockstar'.
 
