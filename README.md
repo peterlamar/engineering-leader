@@ -281,8 +281,15 @@ Schrodinger Backups: The condition of any backup is unknown until a restore is a
 
 ## Managing work cadence and deliverables
 
-Agile can be useful if it is well understand and adapted to a specific team. Often a heavy, waterfall-like version is imposed on teams
-at medium and large enterprises. Given the freedom and a small team setting, it is better to start lighter than heavier. You can always add processes as needed but processes are hard to kill once in place. [Agile light](https://github.com/davebs/AgileLite) or similar resource is a good place to start in this regard. 
+```
+If you don’t know where you’re going, any road will get you there. – Lewis Carroll
+```
+
+Regarding processes, it is better to start lighter than heavier. You can always add processes as needed but processes are hard to kill once in place. Every team and every org is different, here are some points to consider. 
+
+* Ultimately are the business goals being reached by the team. If you don't have goals, thats a great place to start. Start with Quarterly goals and adjust as needed. 
+* Highly motivated and directed engineers can self organize and achieve goals, if possible give them an opportunity to do so. Successful FAANG developer teams and startups are often organized this way. 
+* For everyone else, agile can be useful if it is well understand and adapted to a specific team. Often a heavy, waterfall-like version is imposed on teams at medium and large enterprises as a result of attempts to measure team productivity and thus ROI. Given the freedom and a small team setting,  [Agile light](https://github.com/davebs/AgileLite) or similar resource is a good place to start in this regard. 
 
 ## Distributed teams
 
