@@ -248,6 +248,16 @@ Arguments for the rewrite are similar to those of any proposed disruptive innova
 [bad at disrupting themselves](https://en.wikipedia.org/wiki/Disruptive_innovation), such innovations must usually arrive
 from outside the organization. 
 
+### Upgrading
+
+#### Not all software is worth upgrading
+
+Ultimately, technical debt should be viewed through the lense of how permanent the code is. Upgrades to code that lives indefinetly is a different matter than a prototype that will be thrown away next week. 
+
+#### If you must upgrade and it hurts, do it more often
+
+The foundation of continous deployment and integration is minimizing the size of changes and therefore surprises. If upgrading is painful, it should be done more often to reduce the amount of change at any given time. This is of course assuming the benefit tradeoff is positive (i.e. long living software with an positive expected value of upgrading)
+
 ## Sharing Progress with 3rd Parties
 
 Kanban Trello boards are an excellent pattern to share engineering progress with third parties. These third parties can include actual clients who want to know status of features or other members within the organization such as executives. 
