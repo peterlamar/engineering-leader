@@ -1,8 +1,33 @@
+
 # Leading Engineers
 
-This is a starting set of knowledge for leading engineers in an organization. This can never encompass everything but can aspire to be a useful place to start. 
+This is a set of knowledge for leading engineers in an organization, as evidence driven as possible. This can never encompass everything but can aspire to be a useful place to start. 
 
 * Constructive feedback and contributions are always welcome.
+
+1. [As a Leader](#as-a-leader)
+1. [Growth](#growth)
+1. [Focus](#focus)
+1. [Prioritization](#prioritization)
+1. [Coaching](#coaching)
+1. [1on1s](#1on1s)
+1. [Feedback](#feedback)
+1. [Training](#training)
+1. [Motivation](#motivaiton)
+1. [Performance](#performance)
+1. [Hiring](#hiring)
+1. [Interviewing](#interviewing)
+1. [Combating Bias and Diversity Strategies](#combating-bias-and-diversity-strategies)
+1. [On who to hire](#on-who-to-hire)
+1. [Teams and Meetings](#teams-and-meetings)
+1. [How to stay on top of technical developments?](#how-to-stay-on-top-of-technical-developments)
+1. [How to evaluate performance?](#how-to-evaluate-performance)
+1. [Technical Debt](#technical-debt)
+1. [Sharing Progress with 3rd Parties](#sharing-progress-with-3rd-parties)
+1. [Self service tools and infrastructure](#self-service-tools-and-infrastructure)
+1. [Managing work cadence and deliverables](#managing-work-cadence-and-deliverables)
+1. [Distributed teams](#distributed-teams)
+1. [Good Reads](#good-reads)
 
 ## As a Leader 
 
@@ -12,6 +37,7 @@ A leader in an organization should seek to emulate the following:
 2. Practices '[Extreme Ownership](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2)'. A leader is always responsible and must own any mistake or shortcoming of the team. i.e. "There are no bad teams; just bad leaders"
 3. Creates a ['Psychologically safe'](https://www.youtube.com/watch?v=y6YbAvEtS8k) environment for the team members to succeed. Safe environments are the basis high performance per Google's [ReWork study](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/), [Maslow's heirarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs), and other similar studies.
 4. Work to create an atmosphere of humility, respect and trust. 
+5. Scale themselves and setup a culture of autonomy
 
 ## Growth
 
@@ -48,7 +74,19 @@ The job of a leader is to force yourself (and lead the team) to work on importan
 
 ### 1on1s
 
-Having [good 1on1's](https://a16z.com/2012/08/30/one-on-one/) relies on the belief that it is the employee's meeting, as they should do 90% of the talking. It is a free form meeting for any issues, concerns, ideas and frustrations not easily expressed in more formal channels. Ultimately, the [goal](https://a16z.com/2012/08/18/a-good-place-to-work/) of the 1on1 is the create a great company. 
+* The [goal](https://a16z.com/2012/08/18/a-good-place-to-work/) of the 1on1 is the create a great company. 
+* [1on1s](https://a16z.com/2012/08/30/one-on-one/) are primarily for the employee, and secondarily for the manager. 
+* It is a free form meeting for any issues, concerns, ideas and frustrations not easily expressed in more formal channels.
+
+Example 1on1 questions
+
+* How would you improve the org?
+* Whats not fun about working at the comp?
+* Who is doing really great? Why?
+* What is the biggst opportunity that the comp is missing out on?
+
+Frequency
+* Starting weekly or biweekly is common with the caveat of adjusting as needed
 
 ### Feedback
 
@@ -59,6 +97,7 @@ Feedback is a gift. It is difficult to give, especially with quality. It is an [
 * With understanding, as even the best of us can have difficulty not taking occasional feedback personally
 
 Sometimes ask the person if they wish to have the feedback to illustrate its for their growth. 
+
 
 ### Training
 
@@ -78,7 +117,7 @@ Performance is attributed to a mix of individual and situation. As a hobby farme
 
 Performance is often a tradeoff. An engineer may be 10x more productive than their peers as long as they work in a specific codebase and language but may be very inflexible with tasks that fall outside their preference. Other engineers are good at learning any new language and decifering ambiguity, but don't excel in any one area. Even in nature, specialists thrive when the [environment is stable](https://natureecoevocommunity.nature.com/posts/66199-generalists-or-specialists-population-size-can-be-an-important-determinant) and generalists when there is more upheaval. 
 
-### Coaching to improve performance
+#### Coaching to improve performance
 
 Thought should be given to if the circumstance fits the individual and if they are setup for success. Sometimes people are in a good situation but still miss expectations. Sometimes its because they are not working hard enough and unfortunely other times performance will not improve despite hard work as they are a poor fit for the role. In this case keeping the low performer on the team doesn't do them any favors and likely keeps them from a better fit elsewhere.
 
@@ -86,8 +125,6 @@ Coaching low performers often requires temporary micromanagement, and a lot of t
 * Set specific time frame with specific measurable goals so that there is opportunity for small success
 * Meet weekly and setup explicit expectations around each milestone
 * Low performer will likely improve or find another opportunity
-
-
 
 ## Hiring
 
@@ -156,7 +193,7 @@ Even the sharpest knife can get dull over time.
 
 ## How to evaluate performance?
 
-Software Engineer performance is difficult to measure objectively.
+Software Engineer performance is difficult to measure objectively. The number one evaluation is hitting goals, which for software engineering usually includes shipping on time. Beyond this as with most industries one can use a combination of quality and throughput. 
 
 ### Teams
 
@@ -330,8 +367,7 @@ References:
 
 [Mitchell Hashimoto](https://twitter.com/mitchellh/status/1237540985577459712)
 
-
-## Eng Light Reading
+## Good Reads
 
 Really good engineer resources on creating and maintaining excellent code 
 1. [Flatten code arrows](https://blog.codinghorror.com/flattening-arrow-code/) Excellent and practical on the all too prevelant nested if's
@@ -342,3 +378,4 @@ Really good engineer resources on creating and maintaining excellent code
 1. [Software Engineering at Google Book](https://abseil.io/resources/swe_at_google.2.pdf) Engineering patterns and antipatterns
 1. [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) Excellent reference on data structures and scaling
 1. [Building Secure and Reliable Systems](https://www.amazon.com/Building-Secure-Reliable-Systems-Implementing/dp/1492083127) Update on building and maintaining modern systems
+1. [randsinrepose](https://randsinrepose.com/archives/category/management/) Management blog by engineering leader
