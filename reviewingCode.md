@@ -30,17 +30,22 @@ void Transport::RpcNotifier::failed(){
 
 ### AntiPatterns
 
-* Generic Containers
+* Misusing Generic Containers
+
+Grouping variables that do not have a relationship for convienence of 
+passing or returning. 
 ```java
 return new Pair<Integer, Boolean>(someTerm, false);
 ```
 * Different types for declaration and allocation
+
+Reader may expect var is a List and not an ArrayList
 ```java
 private List<Message> incommingMessageList;
 incomingMessageList = new ArrayList<Message>();
 ```
 * Code that violates reader expectations
-Code doesn't exit, but spawns threads
+Code doesn't exit as implied by void type, but actually spawns threads
 ```java
 public static void main(String[] args){
     new RaftClient(myAddress,serverAddresses); // Spawn threads
