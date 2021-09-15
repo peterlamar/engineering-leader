@@ -27,7 +27,8 @@ This is a set of knowledge for leading engineers in an organization, as evidence
 1. [Self service tools and infrastructure](#self-service-tools-and-infrastructure)
 1. [Managing work cadence and deliverables](#managing-work-cadence-and-deliverables)
 1. [Distributed teams](#distributed-teams)
-1. [Good Reads](#good-reads)
+1. [Books](#books)
+1. [Blogs](#blogs)
 
 ## As a Leader 
 
@@ -87,6 +88,14 @@ Example 1on1 questions
 
 Frequency
 * Starting weekly or biweekly is common with the caveat of adjusting as needed
+
+Agendas
+* Agendas help keep the meeting on track and set expectations
+
+[importance of one-on-ones](https://css-tricks.com/the-importance-of-one-on-ones/) - Good overview on 1on1's
+[HelpScout blog on 1on1s](https://www.helpscout.com/blog/one-on-ones/) - Another excellent perspective on the subject
+[Lighthouse Doc Template](https://getlighthouse.com/blog/one-on-one-meetings-template-great-leaders/) - Very comprehensive tool for 1on1s
+
 
 ### Feedback
 
@@ -367,13 +376,17 @@ References:
 
 [Mitchell Hashimoto](https://twitter.com/mitchellh/status/1237540985577459712)
 
-## Good Reads
+## Books
 
-Really good engineer resources on creating and maintaining excellent code 
 1. [Deep Work](https://hackernewsbooks.com/book/deep-work-rules-for-focused-success-in-a-distracted-world/d1b3b31390821e96e1e8f5a5f8855444) Great info about productivity and managing distractions
 1. [Culture Code](https://www.goodreads.com/book/show/33517721-the-culture-code) Useful for understanding how groups work and how to create positive, better work environments
 1. [Software Engineering at Google Whitepaper](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf) Bold engineering principles at Google
 1. [Software Engineering at Google Book](https://abseil.io/resources/swe_at_google.2.pdf) Engineering patterns and antipatterns
 1. [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) Excellent reference on data structures and scaling
 1. [Building Secure and Reliable Systems](https://www.amazon.com/Building-Secure-Reliable-Systems-Implementing/dp/1492083127) Update on building and maintaining modern systems
+1. [Jason Evanish Book List](https://jasonevanish.com/bookshelf/)
+
+## Blogs
+
 1. [randsinrepose](https://randsinrepose.com/archives/category/management/) Management blog by engineering leader
+1. [Sarah Drasner](https://sarah.dev/writing/)
