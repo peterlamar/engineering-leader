@@ -13,7 +13,7 @@ This is a set of knowledge for leading engineers in an organization, as evidence
 1. [1on1s](#1on1s)
 1. [Feedback](#feedback)
 1. [Training](#training)
-1. [Motivation](#motivaiton)
+1. [Motivation](#motivation)
 1. [Performance](#performance)
 1. [Hiring](#hiring)
 1. [Interviewing](#interviewing)
@@ -49,7 +49,7 @@ A leader should encourage the following:
 
 ## Focus
 
-A key to being able to grow is being able to focus. Studies and some personal experience suggests that engineers need at least [4 hour blocks](https://chase-seibert.github.io/blog/2017/04/14/engineering-meeting-strategies.html) of uninterrupted time to achieve flow. Other literature, such as [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/ref=sr_1_1?ie=UTF8&qid=1527856567&sr=8-1&keywords=deep+work+cal) highlight the benefits that many successful knowledge workers have achieved though utilizing periods of intense focus. 
+A key to being able to grow is being able to focus. Studies and some personal experience suggests that engineers need at least [4 hour blocks](https://chase-seibert.github.io/blog/2017/04/14/engineering-meeting-strategies.html) of uninterrupted time to achieve flow. Other literature, such as [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/ref=sr_1_1?ie=UTF8&qid=1527856567&sr=8-1&keywords=deep+work+cal) highlight the benefits that many successful knowledge workers have achieved though utilizing periods of intense focus. This is also famously described albiet from a different perspective by the blog post ['Maker's schedule, Manager's schedule'](http://www.paulgraham.com/makersschedule.html) which highlights that a single meeting can ruin the afternoon or morning on a maker, whereas filling another slot costs a manager little. 
 
 * Protect engineers time, seeking to give as long uninterrupted stretches possible 
 * Perform daily standups over slack/chat when possible
