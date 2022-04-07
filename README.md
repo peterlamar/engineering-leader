@@ -337,13 +337,21 @@ Schrodinger Backups: The condition of any backup is unknown until a restore is a
 
 ## Managing work cadence and deliverables
 
+### Set Clear Goals
 ```
 If you don’t know where you’re going, any road will get you there. – Lewis Carroll
 ```
 
+* The default state of a team is for every team member to go in a different direction, like a raft going down a raging river with each paddler ignoring their neighbors. If may be even worse than this, the members may be optimizing for speed of individual paddling or having the perfect stroke while the boat itself is heading towards a waterfall. 
+* Aligning each member in the same direction is very hard work and completely your responsibility
+* The first place to start to determine if the business goals being reached by the team. If you don't have goals, thats a great place to start 
+* Three month or six month goals are a good default if you enter a situation with no explicit goals
+
+### Process 
+
 Regarding processes, it is better to start lighter than heavier. You can always add processes as needed but processes are hard to kill once in place. Every team and every org is different, here are some points to consider. 
 
-* Ultimately are the business goals being reached by the team. If you don't have goals, thats a great place to start. Start with Quarterly goals and adjust as needed. 
+
 * Highly motivated and directed engineers can self organize and achieve goals, if possible give them an opportunity to do so. Successful FAANG developer teams and startups are often organized this way. 
 * For everyone else, agile can be useful if it is well understand and adapted to a specific team. Often a heavy, waterfall-like version is imposed on teams at medium and large enterprises as a result of attempts to measure team productivity and thus ROI. Given the freedom and a small team setting,  [Agile light](https://github.com/davebs/AgileLite) or similar resource is a good place to start in this regard. 
 
