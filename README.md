@@ -353,7 +353,7 @@ If you don’t know where you’re going, any road will get you there. – Lewis
 * A signal is how you know you have achieved the result, ideally measureable but typically not
 * Metric is a proxy for a singal, something that can be directly measured
 
-This framework helps you be more objective and prevent metrics creep by being explicit about goals. 
+This framework helps you be more objective and prevent metrics creep by being explicit about goals. A good metric is a reasonable proxy to signal and is traceable back to the original goals.
 
 ### Process 
 
