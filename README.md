@@ -347,6 +347,14 @@ If you don’t know where you’re going, any road will get you there. – Lewis
 * The first place to start to determine if the business goals being reached by the team. If you don't have goals, thats a great place to start 
 * Three month or six month goals are a good default if you enter a situation with no explicit goals
 
+### Goals, Signals and Metrics Framework
+
+* A goal is a desired result at a high level
+* A signal is how you know you have achieved the result, ideally measureable but typically not
+* Metric is a proxy for a singal, something that can be directly measured
+
+This framework helps you be more objective and prevent metrics creep by being explicit about goals. 
+
 ### Process 
 
 Regarding processes, it is better to start lighter than heavier. You can always add processes as needed but processes are hard to kill once in place. Every team and every org is different, here are some points to consider. 
