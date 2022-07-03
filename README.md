@@ -137,6 +137,10 @@ Coaching low performers often requires temporary micromanagement, and a lot of t
 * Meet weekly and setup explicit expectations around each milestone
 * Low performer will likely improve or find another opportunity
 
+#### Top Performers
+
+Like the peach tree or the race car, top performers typically need extra care to sustain themselves. Sometimes it involves understanding the tradeoffs or making sure they are consistently challenged with incremental assignments. 
+
 ## Hiring
 
 When hiring, aim to be transparent and hiring with offers in line with data. Expect a funnel with a percentage of closing rates that resembles a typical sales funnel. 
