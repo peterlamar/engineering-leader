@@ -377,6 +377,13 @@ Regarding processes, it is better to start lighter than heavier. You can always 
 * Over clarify expectionas and how people feel about a topic
 * Show gratitude to your team!
 
+### Growing talent
+* Distrubuted tends to benefit establish engineers with increased focus, however it makes it much harder for new engineers to gain context
+#### To Mitigate
+* Assign onboarding buddy
+* Foster an environment for asking questions
+* Make investments in onboarding labs and other interactive documentation
+
 ### Co-Worker friendly knowledge checklist
 * How much do you know about their family? (Spouse, kids, parents, siblings?)
 * How much do you know about hobbies, goals or interests?
