@@ -204,7 +204,10 @@ Even the sharpest knife can get dull over time.
 
 ## How to evaluate performance?
 
-Software Engineer performance is difficult to measure objectively. The number one evaluation is hitting goals, which for software engineering usually includes shipping on time. Beyond this as with most industries one can use a combination of quality and throughput. 
+Software Engineer performance is difficult to measure objectively. 
+
+* The number one evaluation is hitting goals, which for software engineering usually includes shipping on time. Beyond this as with most industries one can use a combination of quality and throughput. 
+* Performance and impact is weighed against the individuals level, experience, situation and capabilities
 
 ### Teams
 
