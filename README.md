@@ -130,7 +130,10 @@ Performance is often a tradeoff. An engineer may be 10x more productive than the
 
 Thought should be given to if the circumstance fits the individual and if they are setup for success. Sometimes people are in a good situation but still miss expectations. Sometimes its because they are not working hard enough and unfortunely other times performance will not improve despite hard work as they are a poor fit for the role. In this case keeping the low performer on the team doesn't do them any favors and likely keeps them from a better fit elsewhere.
 
+* Ideally, as must trust as possible is built before poor performance is given (or received :)
 * Feedback should be given regularly and often, for example, do not let an underperformer do not allow someone to find out they have been missing expectations for the past six months when you could have shared it after one week
+* Feedback should be direct, don't beat around the bush
+* Any communication should be made sure it has been heard
 
 Coaching low performers often requires temporary micromanagement, and a lot of trust and respect from both sides.
 * Set specific time frame with specific measurable goals so that there is opportunity for small success
