@@ -71,6 +71,12 @@ The job of a leader is to force yourself (and lead the team) to work on importan
 * Schedule Dedicated things - Block out time to work on important tasks such as strategy, career paths, and higher level collaboration
 * Find tracking system that works - Method of tracking goals including low level pomodoro type focusing to high level goals such as [OKRs](https://www.whatmatters.com/faqs/okr-meaning-definition-example/) or [GSM](https://www.atlassian.com/team-playbook/plays/goals-signals-measures)
 
+Determining what is important is a function of gathering inputs from your key stakeholders (typically team, management and customers) and then laying the information out in a systematic manner such as an excel spreadsheet by effort and impact. 
+* Multiple viewpoints, such as team brainstorms, are advantageous to determining goals
+* Excercises to tease out priority such as 'what happens if we don't do xyz'
+* Laddering up to company initiatives or OKRs is advantageous as well
+* Impact is not effort and the world is not fair, make sure you can deliver and measure impact whenever possible and be diligent to stay on course and review goals
+
 ## Coaching
 
 ### 1on1s
